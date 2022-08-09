@@ -1,0 +1,1519 @@
+{
+  "parameters":{
+    "total_count":1
+  },
+  "data":[
+    {
+      "npi":"1013945724",
+      "first_name":"Paolo",
+      "middle_name":null,
+      "last_name":"Romanelli",
+      "age":65,
+      "gender":"m",
+      "ratings_count":29,
+      "ratings_avg":7.79,
+      "degrees":[
+        "MD"
+      ],
+      "educations":[
+        {
+          "type":"Internship",
+          "education":{
+            "name":"University of Miami",
+            "uuid":"d5a5ed52-52f5-48ad-8b3e-ed1451ae0bea"
+          }
+        },
+        {
+          "type":"Residency",
+          "education":{
+            "name":"Jackson Memorial Hospital",
+            "uuid":"c69cdf31-bb6e-4396-9265-eece09538c59"
+          }
+        }
+      ],
+      "is_pcp":false,
+      "specialties":[
+        {
+          "uuid":"4fef90a0-c9d6-41cd-a0c8-d9207a4ecd18",
+          "taxonomy_code":"207ND0900X",
+          "board_specialty":"Dermatology",
+          "board_sub_specialty":"Dermatopathology",
+          "non_md_specialty":null,
+          "non_md_sub_specialty":null,
+          "provider_name":"Dermatopathologist",
+          "colloquial":"Microscopic Diagnostic Skin Care Doctor",
+          "display":"Dermatology - Dermatopathology",
+          "taxonomy_1":"Allopathic & Osteopathic Physicians",
+          "taxonomy_2":"Dermatology",
+          "taxonomy_3":"Dermatopathology",
+          "provider_type":"Doctor",
+          "is_primary":false
+        },
+        {
+          "uuid":"b9dc44e1-6add-41f8-8df4-a8ef9cea706a",
+          "taxonomy_code":"207N00000X",
+          "board_specialty":"Dermatology",
+          "board_sub_specialty":"None",
+          "non_md_specialty":null,
+          "non_md_sub_specialty":null,
+          "provider_name":"Dermatologist",
+          "colloquial":"Skin Care Doctor",
+          "display":"Dermatology",
+          "taxonomy_1":"Allopathic & Osteopathic Physicians",
+          "taxonomy_2":"Dermatology",
+          "taxonomy_3":null,
+          "provider_type":"Doctor",
+          "is_primary":true
+        }
+      ],
+      "provider_types":[
+        "Doctor"
+      ],
+      "languages":[
+        "english",
+        "spanish",
+        "french",
+        "italian"
+      ],
+      "insurances":[
+        {
+          "uuid":"08917f4b-d715-419b-ae75-1f80f1e56ff0",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"Select Open Access and Aetna Select",
+          "plan_type":null,
+          "metal_level":null,
+          "display_name":"Aetna - Select",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"0cdcf258-c6af-43a5-85e6-db219c3044fd",
+          "carrier_association":"Humana",
+          "carrier_brand":"Humana",
+          "carrier_name":"Humana",
+          "state":null,
+          "plan_name":"National POS Open Access Plus",
+          "plan_type":"POS",
+          "metal_level":null,
+          "display_name":"Humana - National POS Open Access Plus",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"1c4b5405-8283-4a5a-af84-e403fe5d3868",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"PPO",
+          "plan_type":"PPO",
+          "metal_level":null,
+          "display_name":"Aetna - PPO",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"3e1ac59e-223a-469d-bb30-63f6988e4134",
+          "carrier_association":"UnitedHealthcare",
+          "carrier_brand":"UnitedHealthcare",
+          "carrier_name":"UnitedHealthcare",
+          "state":null,
+          "plan_name":"Choice",
+          "plan_type":null,
+          "metal_level":null,
+          "display_name":"UnitedHealthcare - Choice",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"63642695-9e9a-458c-97a2-a9db8cc1c9ed",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"OA Elect Choice",
+          "plan_type":"EPO",
+          "metal_level":null,
+          "display_name":"Aetna - OA Elect Choice - EPO",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"692cb008-deb9-4a09-ab8f-ec4766383d6a",
+          "carrier_association":"UnitedHealthcare",
+          "carrier_brand":"UnitedHealthcare",
+          "carrier_name":"UnitedHealthcare",
+          "state":null,
+          "plan_name":"Options PPO",
+          "plan_type":"PPO",
+          "metal_level":null,
+          "display_name":"UnitedHealthcare - Options PPO",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"6ab9d1d3-b969-4352-9fac-68b6494cbe7b",
+          "carrier_association":"UnitedHealthcare",
+          "carrier_brand":"UnitedHealthcare",
+          "carrier_name":"UnitedHealthcare",
+          "state":null,
+          "plan_name":"Choice Plus",
+          "plan_type":null,
+          "metal_level":null,
+          "display_name":"UnitedHealthcare - Choice Plus",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"842eb14d-997f-4036-bdd6-8bd6db0b9c9f",
+          "carrier_association":"UnitedHealthcare",
+          "carrier_brand":"UnitedHealthcare",
+          "carrier_name":"UnitedHealthcare",
+          "state":null,
+          "plan_name":"Core",
+          "plan_type":null,
+          "metal_level":null,
+          "display_name":"UnitedHealthcare - Core",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"998019bf-26fd-49a4-949a-3572eb58c0a1",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"APCN Plus - Choice POS II",
+          "plan_type":"POS",
+          "metal_level":null,
+          "display_name":"Aetna - APCN Plus - Choice POS II",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"9fe2c75c-eef5-477b-af9e-1f0e8ef180a0",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"Choice POS II - Open Access",
+          "plan_type":"POS",
+          "metal_level":null,
+          "display_name":"Aetna - Choice POS II - Open Access - POS",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"ab996d6b-a0d7-4a21-91fb-498f2f446b6c",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"Managed Choice",
+          "plan_type":"POS",
+          "metal_level":null,
+          "display_name":"Aetna - Managed Choice - POS",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"b8581687-2b4e-4f2f-91a9-9128f5bec540",
+          "carrier_association":"BCBS Association",
+          "carrier_brand":"BCBS",
+          "carrier_name":"Blue Cross Blue Shield",
+          "state":null,
+          "plan_name":"BlueCard",
+          "plan_type":"PPO/EPO",
+          "metal_level":null,
+          "display_name":"Blue Cross Blue Shield - BlueCard - PPO/EPO",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"c912b33b-c624-41e5-987e-125d7f78f1f5",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"OA Managed Choice",
+          "plan_type":"POS",
+          "metal_level":null,
+          "display_name":"Aetna - OA Managed Choice - POS",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"ca4d2e0a-5b88-4053-8ceb-76a927cea4e5",
+          "carrier_association":"UnitedHealthcare",
+          "carrier_brand":"UnitedHealthcare",
+          "carrier_name":"UnitedHealthcare",
+          "state":null,
+          "plan_name":"Select",
+          "plan_type":null,
+          "metal_level":null,
+          "display_name":"UnitedHealthcare - Select",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"d1c4b24d-2136-4e8d-8497-8ff1fced234d",
+          "carrier_association":"UnitedHealthcare",
+          "carrier_brand":"UnitedHealthcare",
+          "carrier_name":"UnitedHealthcare",
+          "state":null,
+          "plan_name":"Charter Plus",
+          "plan_type":null,
+          "metal_level":null,
+          "display_name":"UnitedHealthcare - Charter Plus",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"eb932d4a-ad60-4211-9a03-6db0e74f1db5",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"HMO/HNO",
+          "plan_type":"HMO/HNO",
+          "metal_level":null,
+          "display_name":"Aetna - HMO/HNO",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"eecb0179-615f-42cd-9fc0-8f7570f4de63",
+          "carrier_association":"BCBS Association",
+          "carrier_brand":"BCBS",
+          "carrier_name":"Blue Cross Blue Shield",
+          "state":null,
+          "plan_name":"BlueCard PPO Basic",
+          "plan_type":"PPO",
+          "metal_level":null,
+          "display_name":"Blue Cross Blue Shield - BlueCard PPO Basic - PPO",
+          "network":null,
+          "confidence":4,
+          "category":"Group",
+          "codes":[
+
+          ]
+        },
+        {
+          "uuid":"f134c561-b8e4-4012-bd98-5681f97d194b",
+          "carrier_association":"Aetna",
+          "carrier_brand":"Aetna",
+          "carrier_name":"Aetna",
+          "state":null,
+          "plan_name":"Platinum Plan",
+          "plan_type":"PPO",
+          "metal_level":null,
+          "display_name":"Aetna - Platinum Plan - PPO",
+          "network":null,
+          "confidence":4,
+          "category":"Medicare Advantage",
+          "codes":[
+            "H5521-200"
+          ]
+        }
+      ],
+      "locations":[
+        {
+          "name":"University of Miami Hospital",
+          "uuid":"2fab4ffc-01e5-484d-8eff-6fa14adb5bd1",
+          "faxes":[
+
+          ],
+          "address":"1400 NW 12th Ave, Miami, FL 33136, US",
+          "latitude":25.7886219,
+          "longitude":-80.2158661,
+          "confidence":2,
+          "insurances":[
+
+          ],
+          "phone_numbers":[
+
+          ],
+          "location_types":[
+            "Hospital"
+          ],
+          "address_details":{
+            "zip":"33136",
+            "city":"Miami",
+            "state":"FL",
+            "street":"1400 NW 12th Ave",
+            "address_line_1":"1400 NW 12th Ave",
+            "address_line_2":null
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.78862190246582%2C-80.21586608886719&query_place_id=ChIJVbzFLcG22YgRqmA7PYk5VtA",
+          "aha_id":"6390044",
+          "version_id":"24d5a080-cfd0-4205-ada1-d3f564cdf9a2",
+          "parent_aha_id":"6390610"
+        },
+        {
+          "name":"Umiami Medicine Dermatology",
+          "uuid":"85166518-7682-483e-9478-5645ee7c666d",
+          "faxes":[
+            {
+              "fax":"3052433503",
+              "details":"primary"
+            },
+            {
+              "fax":"3055856397",
+              "details":"secondary"
+            },
+            {
+              "fax":"3052436191",
+              "details":"secondary"
+            }
+          ],
+          "address":"1295 NW 14th St # K/L/M, Miami, FL 33125, US",
+          "latitude":25.7878437,
+          "longitude":-80.2159653,
+          "confidence":4,
+          "insurances":[
+            {
+              "uuid":"08917f4b-d715-419b-ae75-1f80f1e56ff0",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"Select Open Access and Aetna Select",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"Aetna - Select",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"0cdcf258-c6af-43a5-85e6-db219c3044fd",
+              "carrier_association":"Humana",
+              "carrier_brand":"Humana",
+              "carrier_name":"Humana",
+              "state":null,
+              "plan_name":"National POS Open Access Plus",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Humana - National POS Open Access Plus",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"1c4b5405-8283-4a5a-af84-e403fe5d3868",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"PPO",
+              "plan_type":"PPO",
+              "metal_level":null,
+              "display_name":"Aetna - PPO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"3e1ac59e-223a-469d-bb30-63f6988e4134",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Choice",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Choice",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"63642695-9e9a-458c-97a2-a9db8cc1c9ed",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"OA Elect Choice",
+              "plan_type":"EPO",
+              "metal_level":null,
+              "display_name":"Aetna - OA Elect Choice - EPO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"692cb008-deb9-4a09-ab8f-ec4766383d6a",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Options PPO",
+              "plan_type":"PPO",
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Options PPO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"6ab9d1d3-b969-4352-9fac-68b6494cbe7b",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Choice Plus",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Choice Plus",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"842eb14d-997f-4036-bdd6-8bd6db0b9c9f",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Core",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Core",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"998019bf-26fd-49a4-949a-3572eb58c0a1",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"APCN Plus - Choice POS II",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Aetna - APCN Plus - Choice POS II",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"9fe2c75c-eef5-477b-af9e-1f0e8ef180a0",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"Choice POS II - Open Access",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Aetna - Choice POS II - Open Access - POS",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"ab996d6b-a0d7-4a21-91fb-498f2f446b6c",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"Managed Choice",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Aetna - Managed Choice - POS",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"b8581687-2b4e-4f2f-91a9-9128f5bec540",
+              "carrier_association":"BCBS Association",
+              "carrier_brand":"BCBS",
+              "carrier_name":"Blue Cross Blue Shield",
+              "state":null,
+              "plan_name":"BlueCard",
+              "plan_type":"PPO/EPO",
+              "metal_level":null,
+              "display_name":"Blue Cross Blue Shield - BlueCard - PPO/EPO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"c912b33b-c624-41e5-987e-125d7f78f1f5",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"OA Managed Choice",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Aetna - OA Managed Choice - POS",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"ca4d2e0a-5b88-4053-8ceb-76a927cea4e5",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Select",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Select",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"d1c4b24d-2136-4e8d-8497-8ff1fced234d",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Charter Plus",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Charter Plus",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"eb932d4a-ad60-4211-9a03-6db0e74f1db5",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"HMO/HNO",
+              "plan_type":"HMO/HNO",
+              "metal_level":null,
+              "display_name":"Aetna - HMO/HNO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"eecb0179-615f-42cd-9fc0-8f7570f4de63",
+              "carrier_association":"BCBS Association",
+              "carrier_brand":"BCBS",
+              "carrier_name":"Blue Cross Blue Shield",
+              "state":null,
+              "plan_name":"BlueCard PPO Basic",
+              "plan_type":"PPO",
+              "metal_level":null,
+              "display_name":"Blue Cross Blue Shield - BlueCard PPO Basic - PPO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"f134c561-b8e4-4012-bd98-5681f97d194b",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"Platinum Plan",
+              "plan_type":"PPO",
+              "metal_level":null,
+              "display_name":"Aetna - Platinum Plan - PPO",
+              "network":null,
+              "confidence":4,
+              "category":"Medicare Advantage",
+              "codes":[
+                "H5521-200"
+              ]
+            }
+          ],
+          "phone_numbers":[
+            {
+              "phone":"3052436704",
+              "details":"primary"
+            },
+            {
+              "phone":"3055856000",
+              "details":"secondary"
+            },
+            {
+              "phone":"3052432190",
+              "details":"secondary"
+            }
+          ],
+          "location_types":[
+            "Independent Clinic"
+          ],
+          "address_details":{
+            "zip":"33125",
+            "city":"Miami",
+            "state":"FL",
+            "street":"1295 NW 14th St # K/L/M",
+            "address_line_1":"1295 NW 14th St",
+            "address_line_2":"# K/L/M"
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.787843704223633%2C-80.2159652709961&query_place_id=ChIJCYAMhMO22YgRBZqa_S4Uc6w",
+          "version_id":"953c6ed7-760a-47a2-902f-b7307bf3ff05"
+        },
+        {
+          "name":"Ambulatory Care Center East",
+          "uuid":"0cc5ce07-590a-4dc5-94fe-5d6da6d46556",
+          "faxes":[
+            {
+              "fax":"3052438470",
+              "details":"primary"
+            },
+            {
+              "fax":"3055856397",
+              "details":"secondary"
+            },
+            {
+              "fax":"3055855437",
+              "details":"secondary"
+            }
+          ],
+          "address":"1611 NW 12th Ave # 3B, Miami, FL 33136, US",
+          "latitude":25.7906265,
+          "longitude":-80.2148819,
+          "confidence":2,
+          "insurances":[
+            {
+              "uuid":"3e1ac59e-223a-469d-bb30-63f6988e4134",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Choice",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Choice",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"692cb008-deb9-4a09-ab8f-ec4766383d6a",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Options PPO",
+              "plan_type":"PPO",
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Options PPO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"6ab9d1d3-b969-4352-9fac-68b6494cbe7b",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Choice Plus",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Choice Plus",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"842eb14d-997f-4036-bdd6-8bd6db0b9c9f",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Core",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Core",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"ca4d2e0a-5b88-4053-8ceb-76a927cea4e5",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Select",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Select",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"d1c4b24d-2136-4e8d-8497-8ff1fced234d",
+              "carrier_association":"UnitedHealthcare",
+              "carrier_brand":"UnitedHealthcare",
+              "carrier_name":"UnitedHealthcare",
+              "state":null,
+              "plan_name":"Charter Plus",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"UnitedHealthcare - Charter Plus",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            }
+          ],
+          "phone_numbers":[
+            {
+              "phone":"3052436704",
+              "details":"primary"
+            },
+            {
+              "phone":"3055856000",
+              "details":"secondary"
+            },
+            {
+              "phone":"3056899607",
+              "details":"secondary"
+            }
+          ],
+          "location_types":[
+
+          ],
+          "address_details":{
+            "zip":"33136",
+            "city":"Miami",
+            "state":"FL",
+            "street":"1611 NW 12th Ave # 3B",
+            "address_line_1":"1611 NW 12th Ave",
+            "address_line_2":"# 3B"
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.790626525878906%2C-80.21488189697266&query_place_id=ChIJ8b82S8a22YgRyUPKexoN_Ig",
+          "version_id":"264ea49c-96e5-4a48-99f6-a7882a3de81e"
+        },
+        {
+          "name":null,
+          "uuid":"7092254f-25cb-4680-9e96-5869cd2b73eb",
+          "faxes":[
+
+          ],
+          "address":"1828 Ponce de Leon Blvd, Coral Gables, FL 33134, US",
+          "latitude":25.7553215,
+          "longitude":-80.2591324,
+          "confidence":1,
+          "insurances":[
+
+          ],
+          "phone_numbers":[
+            {
+              "phone":"3052436704",
+              "details":"primary"
+            },
+            {
+              "phone":"3052438644",
+              "details":"secondary"
+            }
+          ],
+          "location_types":[
+
+          ],
+          "address_details":{
+            "zip":"33134",
+            "city":"Coral Gables",
+            "state":"FL",
+            "street":"1828 Ponce de Leon Blvd",
+            "address_line_1":"1828 Ponce de Leon Blvd",
+            "address_line_2":null
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.755321502685547%2C-80.2591323852539&query_place_id=ChIJEzwdTJm32YgRX7PJYtgl4EU"
+        },
+        {
+          "name":null,
+          "uuid":"2e3fe0bf-0527-4146-b725-51f23902b6d2",
+          "faxes":[
+
+          ],
+          "address":"901 NW 17th St # N, Miami, FL 33136, US",
+          "latitude":25.7920322,
+          "longitude":-80.2107239,
+          "confidence":1,
+          "insurances":[
+            {
+              "uuid":"08917f4b-d715-419b-ae75-1f80f1e56ff0",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"Select Open Access and Aetna Select",
+              "plan_type":null,
+              "metal_level":null,
+              "display_name":"Aetna - Select",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"1c4b5405-8283-4a5a-af84-e403fe5d3868",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"PPO",
+              "plan_type":"PPO",
+              "metal_level":null,
+              "display_name":"Aetna - PPO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"63642695-9e9a-458c-97a2-a9db8cc1c9ed",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"OA Elect Choice",
+              "plan_type":"EPO",
+              "metal_level":null,
+              "display_name":"Aetna - OA Elect Choice - EPO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"998019bf-26fd-49a4-949a-3572eb58c0a1",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"APCN Plus - Choice POS II",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Aetna - APCN Plus - Choice POS II",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"9fe2c75c-eef5-477b-af9e-1f0e8ef180a0",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"Choice POS II - Open Access",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Aetna - Choice POS II - Open Access - POS",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"ab996d6b-a0d7-4a21-91fb-498f2f446b6c",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"Managed Choice",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Aetna - Managed Choice - POS",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"c912b33b-c624-41e5-987e-125d7f78f1f5",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"OA Managed Choice",
+              "plan_type":"POS",
+              "metal_level":null,
+              "display_name":"Aetna - OA Managed Choice - POS",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"eb932d4a-ad60-4211-9a03-6db0e74f1db5",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"HMO/HNO",
+              "plan_type":"HMO/HNO",
+              "metal_level":null,
+              "display_name":"Aetna - HMO/HNO",
+              "network":null,
+              "confidence":4,
+              "category":"Group",
+              "codes":[
+
+              ]
+            },
+            {
+              "uuid":"f134c561-b8e4-4012-bd98-5681f97d194b",
+              "carrier_association":"Aetna",
+              "carrier_brand":"Aetna",
+              "carrier_name":"Aetna",
+              "state":null,
+              "plan_name":"Platinum Plan",
+              "plan_type":"PPO",
+              "metal_level":null,
+              "display_name":"Aetna - Platinum Plan - PPO",
+              "network":null,
+              "confidence":4,
+              "category":"Medicare Advantage",
+              "codes":[
+                "H5521-200"
+              ]
+            }
+          ],
+          "phone_numbers":[
+            {
+              "phone":"3055856000",
+              "details":"primary"
+            },
+            {
+              "phone":"3052436704",
+              "details":"secondary"
+            }
+          ],
+          "location_types":[
+
+          ],
+          "address_details":{
+            "zip":"33136",
+            "city":"Miami",
+            "state":"FL",
+            "street":"901 NW 17th St # N",
+            "address_line_1":"901 NW 17th St",
+            "address_line_2":"# N"
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.79203224182129%2C-80.21072387695312&query_place_id=EjdTdGUgRCwgUmVkIEdhcmFnZSwgOTAxIE5XIDE3dGggU3QsIE1pYW1pLCBGTCAzMzEzNiwgVVNBIiEaHwoWChQKEgmPmEqTx7bZiBHDNc1oJl0gIBIFU3RlIEQ"
+        },
+        {
+          "name":null,
+          "uuid":"4fb9aedc-83cd-4fc8-9b13-b36cc05e4d01",
+          "faxes":[
+
+          ],
+          "address":"1120 NW 14th St FL 5, Miami, FL 33136, US",
+          "latitude":25.7870884,
+          "longitude":-80.2129135,
+          "confidence":1,
+          "insurances":[
+
+          ],
+          "phone_numbers":[
+            {
+              "phone":"3053243388",
+              "details":"primary"
+            }
+          ],
+          "location_types":[
+
+          ],
+          "address_details":{
+            "zip":"33136",
+            "city":"Miami",
+            "state":"FL",
+            "street":"1120 NW 14th St FL 5",
+            "address_line_1":"1120 NW 14th St",
+            "address_line_2":"FL 5"
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.78708839416504%2C-80.2129135131836&query_place_id=Ei5SbSAxMzMxLCAxMTIwIE5XIDE0dGggU3QsIE1pYW1pLCBGTCAzMzEzNiwgVVNBIiMaIQoWChQKEgn9B9cowbbZiBHY9ZK1czwuDRIHUm0gMTMzMQ"
+        },
+        {
+          "name":null,
+          "uuid":"4d435fb0-76a7-44f8-ae53-931500822d8e",
+          "faxes":[
+            {
+              "fax":"3052433503",
+              "details":"primary"
+            }
+          ],
+          "address":"1444 NW 9th Ave, Miami, FL 33136, US",
+          "latitude":25.7886276,
+          "longitude":-80.2103729,
+          "confidence":1,
+          "insurances":[
+
+          ],
+          "phone_numbers":[
+            {
+              "phone":"3052436704",
+              "details":"primary"
+            },
+            {
+              "phone":"3052437688",
+              "details":"secondary"
+            }
+          ],
+          "location_types":[
+
+          ],
+          "address_details":{
+            "zip":"33136",
+            "city":"Miami",
+            "state":"FL",
+            "street":"1444 NW 9th Ave",
+            "address_line_1":"1444 NW 9th Ave",
+            "address_line_2":null
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.78862762451172%2C-80.21037292480469&query_place_id=ChIJB8CDXMe22YgRscPCQgCmle8"
+        },
+        {
+          "name":null,
+          "uuid":"b1d62125-ab3d-4837-917d-a6bc6e49f561",
+          "faxes":[
+
+          ],
+          "address":"Miami, FL 33125, US",
+          "latitude":25.7875748,
+          "longitude":-80.2160492,
+          "confidence":1,
+          "insurances":[
+
+          ],
+          "phone_numbers":[
+            {
+              "phone":"3052436704",
+              "details":"primary"
+            }
+          ],
+          "location_types":[
+
+          ],
+          "address_details":{
+            "zip":"33125",
+            "city":"Miami",
+            "state":"FL",
+            "street":null,
+            "address_line_1":null,
+            "address_line_2":null
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.787574768066406%2C-80.21604919433594&query_place_id=ChIJybMdjMO22YgRJmH8JR3jIHU"
+        },
+        {
+          "name":null,
+          "uuid":"52248700-cb23-4d38-b634-55abe5d62709",
+          "faxes":[
+
+          ],
+          "address":"1600 NW 10th Ave # 8150, Miami, FL 33136, US",
+          "latitude":25.7904034,
+          "longitude":-80.2118683,
+          "confidence":1,
+          "insurances":[
+
+          ],
+          "phone_numbers":[
+            {
+              "phone":"3052439462",
+              "details":"primary"
+            },
+            {
+              "phone":"9549224145",
+              "details":"secondary"
+            }
+          ],
+          "location_types":[
+
+          ],
+          "address_details":{
+            "zip":"33136",
+            "city":"Miami",
+            "state":"FL",
+            "street":"1600 NW 10th Ave # 8150",
+            "address_line_1":"1600 NW 10th Ave",
+            "address_line_2":"# 8150"
+          },
+          "google_maps_link":"https://www.google.com/maps/search/?api=1&query=25.790403366088867%2C-80.21186828613281&query_place_id=EiwxNjAwIE5XIDEwdGggQXZlICM4MTdhLCBNaWFtaSwgRkwgMzMxMzYsIFVTQSIgGh4KFgoUChIJybLSB8e22YgRvXWcAL9udaESBDgxN2E"
+        }
+      ],
+      "online_profiles":[
+        {
+          "url":"https://www.doximity.com/pub/paolo-romanelli-md"
+        },
+        {
+          "url":"https://www.vitals.com/doctors/Dr_Paolo_Romanelli.html"
+        }
+      ],
+      "panel_demographics":{
+        "ages":[
+          "Adult (45-64)",
+          "Senior (65 and over)"
+        ],
+        "sexes":"Both female and male"
+      },
+      "clinical_areas":[
+        {
+          "uuid":"6a193ac7-7f16-4c8e-a0a0-ce33b75f2e44",
+          "display":"Inflammatory Skin Conditions/Rashes (e.g. Eczema, Psoriasis)",
+          "conditions":[
+            {
+              "uuid":"6967423f-0e31-4533-8aa4-68e3598995f6",
+              "display":"Psoriasis"
+            },
+            {
+              "uuid":"14c370eb-3592-4469-9105-8d5491d68d25",
+              "display":"Skin Lightening/Depigmentation (Vitiligo)"
+            },
+            {
+              "uuid":"837bab5b-5d20-4f3f-924d-1fa6607476ef",
+              "display":"Skin Cancer Risk"
+            },
+            {
+              "uuid":"d1803cd2-229f-4d3c-af76-0a94a038b1f3",
+              "display":"Itching"
+            },
+            {
+              "uuid":"59ec6644-4cc2-49d2-b917-59097bb24645",
+              "display":"Skin Irritation (Dermatitis)"
+            }
+          ],
+          "treatments":[
+            {
+              "uuid":"5702f41d-b44b-4fcb-88ca-b21b16982253",
+              "display":"UV Light Treatment (e.g. Psoriasis, Vitiligo, Eczema)"
+            },
+            {
+              "uuid":"675ef6d1-14f7-4c28-af6c-e178de63a0fd",
+              "display":"Skin Cancer Screening/General Skin Exam"
+            },
+            {
+              "uuid":"c6da6e37-a283-4694-9d2d-9d6355b9c63b",
+              "display":"Removal Of Abnormal Skin Growths (e.g. Moles, Warts, Benign Tumors)"
+            },
+            {
+              "uuid":"1d0e0aee-8946-46ca-bf3e-64b4a4c2b9d3",
+              "display":"Skin Biopsy"
+            },
+            {
+              "uuid":"573e2423-7b81-4cb4-8245-55133c80fe8f",
+              "display":"Laser Treatment (e.g. Psoriasis, Vitiligo)"
+            }
+          ]
+        }
+      ],
+      "conditions":[
+        {
+          "uuid":"d1803cd2-229f-4d3c-af76-0a94a038b1f3",
+          "display":"Itching"
+        },
+        {
+          "uuid":"6967423f-0e31-4533-8aa4-68e3598995f6",
+          "display":"Psoriasis"
+        },
+        {
+          "uuid":"837bab5b-5d20-4f3f-924d-1fa6607476ef",
+          "display":"Skin Cancer Risk"
+        },
+        {
+          "uuid":"59ec6644-4cc2-49d2-b917-59097bb24645",
+          "display":"Skin Irritation (Dermatitis)"
+        },
+        {
+          "uuid":"14c370eb-3592-4469-9105-8d5491d68d25",
+          "display":"Skin Lightening/Depigmentation (Vitiligo)"
+        }
+      ],
+      "treatments":[
+        {
+          "uuid":"573e2423-7b81-4cb4-8245-55133c80fe8f",
+          "display":"Laser Treatment (e.g. Psoriasis, Vitiligo)"
+        },
+        {
+          "uuid":"c6da6e37-a283-4694-9d2d-9d6355b9c63b",
+          "display":"Removal Of Abnormal Skin Growths (e.g. Moles, Warts, Benign Tumors)"
+        },
+        {
+          "uuid":"1d0e0aee-8946-46ca-bf3e-64b4a4c2b9d3",
+          "display":"Skin Biopsy"
+        },
+        {
+          "uuid":"675ef6d1-14f7-4c28-af6c-e178de63a0fd",
+          "display":"Skin Cancer Screening/General Skin Exam"
+        },
+        {
+          "uuid":"5702f41d-b44b-4fcb-88ca-b21b16982253",
+          "display":"UV Light Treatment (e.g. Psoriasis, Vitiligo, Eczema)"
+        }
+      ],
+      "procedures":[
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"9bfe092a-8c9d-4896-bfc2-20824e17cc7b",
+          "display":"Actinotherapy (ultraviolet light)",
+          "quality":{
+            "experience_index":4
+          }
+        },
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"0d01850d-38d3-4133-8349-16c2ba6d651d",
+          "display":"Chemotherapy (Intravenous)",
+          "quality":{
+            "experience_index":3.4
+          }
+        },
+        {
+          "cost":{
+            "cost_index":3
+          },
+          "uuid":"3edd5239-8981-4474-8b5c-0fecc0ad1a14",
+          "display":"CT, abdomen and pelvis",
+          "quality":{
+            "experience_index":4
+          }
+        },
+        {
+          "cost":{
+            "cost_index":3.6
+          },
+          "uuid":"fedbcf21-97d0-404f-8a93-a0d2d30351c7",
+          "display":"CT, thorax",
+          "quality":{
+            "experience_index":4.3
+          }
+        },
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"8b418b9a-5eb7-4dcd-b756-e5dd199e7ba1",
+          "display":"Hospital Care and Patient Evaluation",
+          "quality":{
+            "experience_index":3.1
+          }
+        },
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"72775ac1-b106-44e1-bbdd-a747c2264bc4",
+          "display":"MRI, abdomen",
+          "quality":{
+            "experience_index":4.4
+          }
+        },
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"c11f75e0-60b0-4947-8b4d-319f167a476e",
+          "display":"New patient office or other outpatient visit, typically 30 min",
+          "quality":{
+            "experience_index":4.6
+          }
+        },
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"a9d42ab6-e134-432a-b0fe-8177ea517a81",
+          "display":"New patient office or other outpatient visit, typically 45 min",
+          "quality":{
+            "experience_index":3.5
+          }
+        },
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"9d1bd46d-eb49-493a-8277-1e3b81cf98ee",
+          "display":"Patient office consultation, typically 60 min",
+          "quality":{
+            "experience_index":4.4
+          }
+        },
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"8e25bcc7-5f6e-4911-b262-93f0b1e8da90",
+          "display":"Photochemotherapy",
+          "quality":{
+            "experience_index":6.9
+          }
+        },
+        {
+          "cost":{
+            "cost_index":null
+          },
+          "uuid":"3d4bb49a-18ae-4ca6-a685-3485c8b4036a",
+          "display":"X-Ray, chest",
+          "quality":{
+            "experience_index":4.1
+          }
+        }
+      ],
+      "performance":{
+
+      }
+    }
+  ]
+}
